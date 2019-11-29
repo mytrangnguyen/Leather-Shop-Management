@@ -1,0 +1,673 @@
+{
+  "categories" : {
+    "-LkMhtZgbRRHnOSXhniP" : {
+      "cateName" : "Túi & Cluth",
+      "createAt" : 1563766004261
+    },
+    "-LkMi0T25V-7mUUezFZX" : {
+      "cateName" : "Phụ Kiện",
+      "createAt" : 1563766036604
+    },
+    "-LkMi3mnmsgpQnfMLEdO" : {
+      "cateName" : "Ví da",
+      "createAt" : 1563766050219
+    }
+  },
+  "customers" : {
+    "-Lk7JX8LOgIR4CLTxRQy" : {
+      "address" : "Quảng Bình",
+      "birthday" : "2019-07-11",
+      "createAt" : 1563763270600,
+      "name" : "Nhung Phan",
+      "phoneNumber" : "053214652",
+      "score" : 10
+    },
+    "-Lk8T1nKsFqbEF688FAH" : {
+      "address" : "Quảng Bình",
+      "birthday" : "2019-07-12",
+      "createAt" : 1563763450601,
+      "name" : "Nguyễn Hoàng Minh Anh",
+      "phoneNumber" : "0942922444",
+      "score" : "20"
+    },
+    "-Lk8gaIU-vMGkGFRwnjb" : {
+      "address" : "Quảng Bình",
+      "birthday" : "2019-07-12",
+      "createAt" : 1563763289603,
+      "name" : "Minh Anh",
+      "phoneNumber" : "0919819339",
+      "score" : "15"
+    },
+    "-LkMRG0mvuD5Rh5vvVb5" : {
+      "address" : "Quảng Bình",
+      "birthday" : "2019-07-03",
+      "createAt" : 1563763280604,
+      "name" : "Ly lu",
+      "phoneNumber" : "0984756732",
+      "score" : 16
+    },
+    "-LkM__mWXn_fIx03P5VN" : {
+      "address" : "Quảng Bình",
+      "birthday" : "2019-07-17",
+      "createAt" : 1563763826063,
+      "name" : "Ly Ly Minh",
+      "phoneNumber" : "01634778516",
+      "score" : 11
+    },
+    "-LkMaC3eQ7cATKWN8RXz" : {
+      "address" : "Bình Thuận",
+      "birthday" : "2019-07-13",
+      "createAt" : 1563763986951,
+      "name" : "Mỹ Trang ",
+      "phoneNumber" : "0932513245",
+      "score" : 19
+    },
+    "-LkMaUXJG9O4FbYtE_Y9" : {
+      "address" : "Quảng Bình",
+      "birthday" : "2019-07-04",
+      "createAt" : 1563764062568,
+      "name" : "Đoàn Thị Ly",
+      "phoneNumber" : "01634778516",
+      "score" : 27
+    },
+    "-LkMdwhPUNo85FhyZDkx" : {
+      "address" : "Quảng Bình",
+      "birthday" : "2019-07-09",
+      "createAt" : 1563764968517,
+      "name" : "Nhung Phan",
+      "phoneNumber" : "0984756732",
+      "score" : "2"
+    },
+    "-LkMuq8gb64ZLKDzJ0bF" : {
+      "address" : "Quảng Bình",
+      "birthday" : "2019-07-14",
+      "createAt" : 1563769398117,
+      "deleteAt" : "2019-7-22",
+      "name" : "Lung Linh",
+      "phoneNumber" : "098654678",
+      "score" : 1
+    },
+    "-LkNQ9Aktmn8VH2b3K-N" : {
+      "address" : "Quảng Bình",
+      "birthday" : "2019-07-02",
+      "createAt" : 1563777868765,
+      "deleteAt" : "2019-7-22",
+      "name" : "Trần Gia Hân",
+      "phoneNumber" : "0415445454",
+      "score" : 0
+    },
+    "-LkNaLlounil7A4j0cP5" : {
+      "address" : "Quảng Bình",
+      "birthday" : "2019-07-06",
+      "createAt" : 1563780803919,
+      "name" : "Như Nguyễn",
+      "phoneNumber" : "098654656",
+      "score" : 10
+    },
+    "-LkWjfZgL2jdpdv68O_m" : {
+      "address" : "Quảng Bình",
+      "birthday" : "2019-07-12",
+      "createAt" : 1563934243746,
+      "name" : "Minh minh",
+      "phoneNumber" : "04154454546",
+      "score" : 0
+    },
+    "-LkYfgHOTh0bWV0fsXj5" : {
+      "address" : "381 Trần Nhân Tông",
+      "birthday" : "2019-07-10",
+      "createAt" : 1563966752300,
+      "name" : "Trần Quang Phú",
+      "phoneNumber" : "0123456789",
+      "score" : 28
+    },
+    "-Lkfzb45P19YAUfMLgcL" : {
+      "address" : "Quảng Bình",
+      "birthday" : "2019-07-09",
+      "createAt" : 1564106191413,
+      "name" : "Trần Bảo Hân",
+      "phoneNumber" : "0976372476",
+      "score" : 15
+    },
+    "-LkgBRSDs7drQ79M83VC" : {
+      "address" : "Bình Thuận",
+      "birthday" : "2019-07-09",
+      "createAt" : 1564109555757,
+      "name" : "Trần Kiều Anh",
+      "phoneNumber" : "0977637846",
+      "score" : 10
+    }
+  },
+  "employees" : {
+    "-LkMlAQLOZCRh0SzRl4P" : {
+      "address" : "Quảng Bình",
+      "createAt" : 1563766863841,
+      "email" : "minhnhat10bk@gmail.com",
+      "idCard" : "13234355t4",
+      "name" : "Nguyễn Tường Nhật",
+      "salary" : "1500000"
+    },
+    "-LkMn1kPLAPnQehTd4UA" : {
+      "address" : "Bình Thuận",
+      "createAt" : 1563767352590,
+      "email" : "lydoan.dev@gmail.com",
+      "idCard" : "13234355t4",
+      "name" : "Nguyễn Ái Nhung",
+      "salary" : "3500000"
+    },
+    "-LkMsE4l1zyPVvf44z8x" : {
+      "address" : "Quảng Nam",
+      "createAt" : 1563768713837,
+      "email" : "han.nguyen@gmail.com",
+      "idCard" : "12347155",
+      "name" : "Nguyễn Ngọc Bảo Hân",
+      "salary" : "5000000"
+    },
+    "-LkMsZGYLKhEAz3sClW5" : {
+      "address" : "381 Trần Nhân Tông, Kon Tum",
+      "createAt" : 1563768800603,
+      "email" : "duy.nguyen@gmail.com",
+      "idCard" : "1545242545",
+      "name" : "Nguyễn Ngọc Duy",
+      "salary" : "6000000"
+    },
+    "-LkMsoFAogiroJWEZ1Ak" : {
+      "address" : "380 Trần Nhân Tông, Kon Tum",
+      "createAt" : 1563768866050,
+      "email" : "minhanhnguyen@gmail.com",
+      "idCard" : "163171253",
+      "name" : "Nguyễn Minh Anh",
+      "salary" : "4500000"
+    },
+    "-LkMuNkSRHWj6-_sJHT7" : {
+      "address" : "Đà Nẵng",
+      "createAt" : 1563769277704,
+      "email" : "duylamnguyen@gmail.com",
+      "idCard" : "1632547886",
+      "name" : "Nguyễn Duy Lâm",
+      "salary" : "3500000"
+    },
+    "-LkNc2DziDMzGWORpHnt" : {
+      "address" : "Thành phố HCM",
+      "createAt" : 1563781248168,
+      "email" : "tamminh.nguyen@gmail.com",
+      "idCard" : "1623014569",
+      "name" : "Nguyễn Hoàng Minh Tâm",
+      "salary" : "4500000"
+    }
+  },
+  "orders" : {
+    "-LkMyRYUBh01-bGy1BW9" : {
+      "amount" : 1800000,
+      "createAt" : 1563770341846,
+      "idCus" : "-LkMRG0mvuD5Rh5vvVb5",
+      "orderDate" : "2016-6-22",
+      "products" : [ {
+        "id" : "6dd56d48-5248-47df-b20f-9b5bc183bc10",
+        "quantity" : 1
+      } ]
+    },
+    "-LkMyX0DdfUxds6Go_73" : {
+      "amount" : 6300000,
+      "createAt" : 1563770364230,
+      "idCus" : "-LkMaC3eQ7cATKWN8RXz",
+      "orderDate" : "2016-7-22",
+      "products" : [ {
+        "id" : "3a702585-f9bb-4c8c-9798-3b089500b0f0",
+        "quantity" : 1
+      }, {
+        "id" : "57d6a7bb-19bd-44b2-9918-7853455c30c9",
+        "quantity" : 1
+      }, {
+        "id" : "f441f3f4-cbda-41d0-809f-0a618ed3a52a",
+        "quantity" : 1
+      } ]
+    },
+    "-LkMycpqNcbidMP41HZW" : {
+      "amount" : 2000000,
+      "createAt" : 1563770392175,
+      "idCus" : "-LkMdwhPUNo85FhyZDkx",
+      "orderDate" : "2018-10-22",
+      "products" : [ {
+        "id" : "669fc649-0cdf-4881-a493-cd6014329603",
+        "quantity" : 1
+      } ]
+    },
+    "-LkMytSzxdqJGoZv5IgO" : {
+      "amount" : 600000,
+      "createAt" : 1563770460281,
+      "idCus" : "-LkM__mWXn_fIx03P5VN",
+      "orderDate" : "2017-8-22",
+      "products" : [ {
+        "id" : "f441f3f4-cbda-41d0-809f-0a618ed3a52a",
+        "quantity" : 2
+      } ]
+    },
+    "-LkMyzkaOEWmb_qAA_j7" : {
+      "amount" : 300000,
+      "createAt" : 1563770486048,
+      "idCus" : "-Lk8gaIU-vMGkGFRwnjb",
+      "orderDate" : "2017-3-22",
+      "products" : [ {
+        "id" : "f441f3f4-cbda-41d0-809f-0a618ed3a52a",
+        "quantity" : 1
+      } ]
+    },
+    "-LkMz9TSgOBn9by0BzNK" : {
+      "amount" : 300000,
+      "createAt" : 1563770529944,
+      "orderDate" : "2018-7-22",
+      "products" : [ {
+        "id" : "f441f3f4-cbda-41d0-809f-0a618ed3a52a",
+        "quantity" : 1
+      } ]
+    },
+    "-LkMzBO4j4GfY0HGW_8a" : {
+      "amount" : 1500000,
+      "createAt" : 1563770537793,
+      "orderDate" : "2014-6-22",
+      "products" : [ {
+        "id" : "57d6a7bb-19bd-44b2-9918-7853455c30c9",
+        "quantity" : 1
+      } ]
+    },
+    "-LkMzXghPki74UGLQvZy" : {
+      "amount" : 4275000,
+      "createAt" : 1563770629163,
+      "idCus" : "-Lk8T1nKsFqbEF688FAH",
+      "orderDate" : "2015-5-22",
+      "products" : [ {
+        "id" : "3a702585-f9bb-4c8c-9798-3b089500b0f0",
+        "quantity" : 1
+      } ]
+    },
+    "-LkMz_aKysMXtEm0b88T" : {
+      "amount" : 1800000,
+      "createAt" : 1563770641042,
+      "deleteAt" : "2019-7-22",
+      "orderDate" : "2019-6-22",
+      "products" : [ {
+        "id" : "6dd56d48-5248-47df-b20f-9b5bc183bc10",
+        "quantity" : 1
+      } ]
+    },
+    "-LkMzmKSS0Oh0BKOsDbJ" : {
+      "amount" : 1185000,
+      "createAt" : 1563770693210,
+      "deleteAt" : "2019-7-22",
+      "idCus" : "-LkMaC3eQ7cATKWN8RXz",
+      "orderDate" : "2015-7-22",
+      "products" : [ {
+        "id" : "57d6a7bb-19bd-44b2-9918-7853455c30c9",
+        "quantity" : 1
+      } ]
+    },
+    "-LkNXYaA-t0W5toctYGB" : {
+      "amount" : 1095000,
+      "createAt" : 1563779807851,
+      "deleteAt" : "2019-7-22",
+      "idCus" : "-Lk8T1nKsFqbEF688FAH",
+      "orderDate" : "2018-5-22",
+      "products" : [ {
+        "id" : "57d6a7bb-19bd-44b2-9918-7853455c30c9",
+        "quantity" : 1
+      } ]
+    },
+    "-LkNXpxq8XkFYE1p7J71" : {
+      "amount" : 1600000,
+      "createAt" : 1563779883089,
+      "deleteAt" : "2019-7-22",
+      "orderDate" : "2014-7-22",
+      "products" : [ {
+        "id" : "57d6a7bb-19bd-44b2-9918-7853455c30c9",
+        "quantity" : 1
+      } ]
+    },
+    "-LkNY8dRh3lDFFPpMn84" : {
+      "amount" : 4455000,
+      "createAt" : 1563779963727,
+      "deleteAt" : "2019-7-22",
+      "idCus" : "-Lk8gaIU-vMGkGFRwnjb",
+      "orderDate" : "2019-4-23",
+      "products" : [ {
+        "id" : "3a702585-f9bb-4c8c-9798-3b089500b0f0",
+        "quantity" : 1
+      } ]
+    },
+    "-LkNYB0AD03l-Q6lURrw" : {
+      "amount" : 300000,
+      "createAt" : 1563779973442,
+      "deleteAt" : "2019-7-22",
+      "orderDate" : "2019-7-22",
+      "products" : [ {
+        "id" : "f441f3f4-cbda-41d0-809f-0a618ed3a52a",
+        "quantity" : 1
+      } ]
+    },
+    "-LkNfx5OiUhY-QM8Gt4r" : {
+      "amount" : 2000000,
+      "createAt" : 1563782271621,
+      "orderDate" : "2019-5-22",
+      "products" : [ {
+        "id" : "669fc649-0cdf-4881-a493-cd6014329603",
+        "quantity" : 1
+      } ]
+    },
+    "-LkNk9d16d-a2B4swt6z" : {
+      "amount" : 1155000,
+      "createAt" : 1563783375646,
+      "idCus" : "-Lk8gaIU-vMGkGFRwnjb",
+      "orderDate" : "2014-7-22",
+      "products" : [ {
+        "id" : "57d6a7bb-19bd-44b2-9918-7853455c30c9",
+        "quantity" : 1
+      } ]
+    },
+    "-LkNzxZ7BZWAwBUt6hao" : {
+      "amount" : 300000,
+      "createAt" : 1563787516405,
+      "idCus" : "-LkM__mWXn_fIx03P5VN",
+      "orderDate" : "2016-5-22",
+      "products" : [ {
+        "id" : "f441f3f4-cbda-41d0-809f-0a618ed3a52a",
+        "quantity" : 1
+      } ]
+    },
+    "-LkO60eJKHPW9fEhXgN5" : {
+      "amount" : 2000000,
+      "createAt" : 1563789368186,
+      "idCus" : "-LkNaLlounil7A4j0cP5",
+      "orderDate" : "2014-11-22",
+      "products" : [ {
+        "id" : "669fc649-0cdf-4881-a493-cd6014329603",
+        "quantity" : 1
+      } ]
+    },
+    "-LkO8ePoocoY1fdTVbmH" : {
+      "amount" : 4230000,
+      "createAt" : 1563790059428,
+      "deleteAt" : "2019-7-22",
+      "idCus" : "-LkMaUXJG9O4FbYtE_Y9",
+      "orderDate" : "2016-2-22",
+      "products" : [ {
+        "id" : "3a702585-f9bb-4c8c-9798-3b089500b0f0",
+        "quantity" : 1
+      } ]
+    },
+    "-LkWx6-VkA7LH5wQI1At" : {
+      "amount" : 2000000,
+      "createAt" : 1563937763593,
+      "orderDate" : "2016-8-24",
+      "products" : [ {
+        "id" : "669fc649-0cdf-4881-a493-cd6014329603",
+        "quantity" : 1
+      } ]
+    },
+    "-LkWxBVa-BKZhOmucZhc" : {
+      "amount" : 2000000,
+      "createAt" : 1563937786126,
+      "orderDate" : "2014-3-24",
+      "products" : [ {
+        "id" : "669fc649-0cdf-4881-a493-cd6014329603",
+        "quantity" : 1
+      } ]
+    },
+    "-LkX-yA6GMpe_3bE4GXu" : {
+      "amount" : 1500000,
+      "createAt" : 1563938775991,
+      "idCus" : "-LkMRG0mvuD5Rh5vvVb5",
+      "orderDate" : "2015-12-24",
+      "products" : [ {
+        "id" : "57d6a7bb-19bd-44b2-9918-7853455c30c9",
+        "quantity" : 1
+      } ]
+    },
+    "-LkX1kHywx9FP2Znykjv" : {
+      "amount" : 300000,
+      "createAt" : 1563939243447,
+      "orderDate" : "2015-6-24",
+      "products" : [ {
+        "id" : "f441f3f4-cbda-41d0-809f-0a618ed3a52a",
+        "quantity" : 1
+      } ]
+    },
+    "-LkX26exUjAZEIuqnsiN" : {
+      "amount" : 1800000,
+      "createAt" : 1563939339200,
+      "orderDate" : "2019-7-24",
+      "products" : [ {
+        "id" : "6dd56d48-5248-47df-b20f-9b5bc183bc10",
+        "quantity" : 1
+      } ]
+    },
+    "-LkX2E3Y6Jv3yJbtFATs" : {
+      "amount" : 3600000,
+      "createAt" : 1563939369511,
+      "orderDate" : "2019-7-24",
+      "products" : [ {
+        "id" : "6dd56d48-5248-47df-b20f-9b5bc183bc10",
+        "quantity" : 2
+      } ]
+    },
+    "-LkYfgHe62hpWEBus2A-" : {
+      "amount" : 5500000,
+      "createAt" : 1563966752308,
+      "idCus" : "-LkYfgHOTh0bWV0fsXj5",
+      "orderDate" : "2019-7-24",
+      "products" : [ {
+        "id" : "669fc649-0cdf-4881-a493-cd6014329603",
+        "quantity" : 2
+      }, {
+        "id" : "57d6a7bb-19bd-44b2-9918-7853455c30c9",
+        "quantity" : 1
+      } ]
+    },
+    "-LkYfyjbGRNJPjA4ssmK" : {
+      "amount" : 249000,
+      "createAt" : 1563966827887,
+      "idCus" : "-LkYfgHOTh0bWV0fsXj5",
+      "orderDate" : "2019-7-24",
+      "products" : [ {
+        "id" : "f441f3f4-cbda-41d0-809f-0a618ed3a52a",
+        "quantity" : 1
+      } ]
+    },
+    "-LkYg19rPCv-osHnH6Ua" : {
+      "amount" : 1800000,
+      "createAt" : 1563966841917,
+      "orderDate" : "2019-7-24",
+      "products" : [ {
+        "id" : "6dd56d48-5248-47df-b20f-9b5bc183bc10",
+        "quantity" : 1
+      } ]
+    },
+    "-Lkfzb4HwAKCr6GvVQfP" : {
+      "amount" : 3000000,
+      "createAt" : 1564106191418,
+      "idCus" : "-Lkfzb45P19YAUfMLgcL",
+      "orderDate" : "2019-7-26",
+      "products" : [ {
+        "id" : "57d6a7bb-19bd-44b2-9918-7853455c30c9",
+        "quantity" : 2
+      } ]
+    },
+    "-LkfzjDuHxzTseKLvF2H" : {
+      "amount" : 3000000,
+      "createAt" : 1564106224802,
+      "orderDate" : "2019-7-26",
+      "products" : [ {
+        "id" : "-LkX3wBuElAa-kiVyW61",
+        "quantity" : 1
+      } ]
+    },
+    "-LkgBRSOCvqPN_Fhzhr8" : {
+      "amount" : 3900000,
+      "createAt" : 1564109555763,
+      "idCus" : "-LkgBRSDs7drQ79M83VC",
+      "orderDate" : "2019-7-26",
+      "products" : [ {
+        "id" : "f441f3f4-cbda-41d0-809f-0a618ed3a52a",
+        "quantity" : 1
+      }, {
+        "id" : "6dd56d48-5248-47df-b20f-9b5bc183bc10",
+        "quantity" : 2
+      } ]
+    },
+    "-LkgBTzQav-uJrAxr4aD" : {
+      "amount" : 1800000,
+      "createAt" : 1564109566132,
+      "orderDate" : "2019-7-26",
+      "products" : [ {
+        "id" : "6dd56d48-5248-47df-b20f-9b5bc183bc10",
+        "quantity" : 1
+      } ]
+    },
+    "-LkgB_IKUML1QOzF11jO" : {
+      "amount" : 3000000,
+      "createAt" : 1564109591997,
+      "idCus" : "-LkMaUXJG9O4FbYtE_Y9",
+      "orderDate" : "2019-7-26",
+      "products" : [ {
+        "id" : "-LkX3wBuElAa-kiVyW61",
+        "quantity" : 1
+      } ]
+    },
+    "-LkgBk0Jf5YQrWvKpPIL" : {
+      "amount" : 4500000,
+      "createAt" : 1564109635901,
+      "idCus" : "-LkMaUXJG9O4FbYtE_Y9",
+      "orderDate" : "2019-7-26",
+      "products" : [ {
+        "id" : "3a702585-f9bb-4c8c-9798-3b089500b0f0",
+        "quantity" : 1
+      } ]
+    },
+    "-LkgC8oCXewep51ZtrEr" : {
+      "amount" : 1740000,
+      "createAt" : 1564109741552,
+      "idCus" : "-LkMaUXJG9O4FbYtE_Y9",
+      "orderDate" : "2019-7-26",
+      "products" : [ {
+        "id" : "669fc649-0cdf-4881-a493-cd6014329603",
+        "quantity" : 1
+      } ]
+    },
+    "-LkgCGsMVv66m_9BIDHk" : {
+      "amount" : 1500000,
+      "createAt" : 1564109774592,
+      "idCus" : "-LkgBRSDs7drQ79M83VC",
+      "orderDate" : "2019-7-26",
+      "products" : [ {
+        "id" : "57d6a7bb-19bd-44b2-9918-7853455c30c9",
+        "quantity" : 1
+      } ]
+    },
+    "-LkhH6J-21ou8Z58vWjw" : {
+      "amount" : 4500000,
+      "createAt" : 1564127819247,
+      "idCus" : "-LkMaC3eQ7cATKWN8RXz",
+      "orderDate" : "2019-7-26",
+      "products" : [ {
+        "id" : "3a702585-f9bb-4c8c-9798-3b089500b0f0",
+        "quantity" : 1
+      } ]
+    }
+  },
+  "products" : {
+    "-LkX3wBuElAa-kiVyW61" : {
+      "cateID" : "-LkMi3mnmsgpQnfMLEdO",
+      "createAt" : 1563939816495,
+      "dateAdd" : "2019-07-24",
+      "dateAt" : "",
+      "description" : "Chất liệu 100% từ da heo và bò",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/projectdemo-e3434.appspot.com/o/images%2Fda%20lv.png?alt=media&token=e8a46435-346e-43ad-97e4-80a3ab7fb254",
+      "name" : "Túi da LV ",
+      "priceIn" : "2500000",
+      "priceOut" : "3000000",
+      "pricePromotion" : "0",
+      "progress" : 0,
+      "quantity" : 3,
+      "quantitySaled" : 2,
+      "url" : ""
+    },
+    "3a702585-f9bb-4c8c-9798-3b089500b0f0" : {
+      "cateID" : "-LkMhtZgbRRHnOSXhniP",
+      "createAt" : 1563766215438,
+      "dateAdd" : "2019-02-03",
+      "deleteAt" : "",
+      "description" : "Chất liệu da bò thật 100%  Bên trong lót 1 lớp nhung mềm   Nắp có gắn nam châm hít chắc chắn  Có đủ loại cho các dòng MACBOOK 11, 12, 13 & 15 inch.  3 màu: Đen / Vàng bò / Xanh dương",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/projectdemo-e3434.appspot.com/o/images%2FBAO-DA-MACBOOK-LEO-1.png?alt=media&token=468568de-5945-424b-985a-267df823ad31",
+      "name" : "BAO DA MACBOOK COOL",
+      "priceIn" : "2500000",
+      "priceOut" : "4500000",
+      "pricePromotion" : "4000000",
+      "quantity" : 1,
+      "quantitySaled" : 2,
+      "status" : "1"
+    },
+    "57d6a7bb-19bd-44b2-9918-7853455c30c9" : {
+      "cateID" : "-LkMi0T25V-7mUUezFZX",
+      "createAt" : 1563766288828,
+      "dateAdd" : "2019-02-03",
+      "description" : "Hãy thử tưởng tượng tất cả các vận dụng: Ipad, điện thoại, bút, sạc đa năng, thẻ ATM, tiền mặt... đều có thể bỏ gọn gàng trong chiếc CLUTCH này, quá tiện phải không nào? Chất liệu: Da bò thật 100%",
+      "image" : "https://lydoan-pn.000webhostapp.com/Image/Product/CLUTCH-BOSSED-1.png",
+      "name" : "CLUTCH BOSSED",
+      "priceIn" : "1200000",
+      "priceOut" : "1500000",
+      "pricePromotion" : "0",
+      "quantity" : 7,
+      "quantitySaled" : 3,
+      "status" : "1"
+    },
+    "669fc649-0cdf-4881-a493-cd6014329603" : {
+      "cateID" : "-LkMhtZgbRRHnOSXhniP",
+      "createAt" : 1563766378230,
+      "dateAdd" : "2019-02-03",
+      "description" : "Đây là phiển bản cải tiến của mẫu Clutch cũ, với phiên bản mới này bạn có thể đựng được rất nhiều vận dụng chỉ trong một chiếc túi da nhỏ gọn",
+      "image" : "https://salt.tikicdn.com/cache/w1200/ts/product/81/9f/fd/9ffafab9e2be8cdaca7c100cfdf4422c.jpg",
+      "name" : "CLUTCH HỘP",
+      "priceIn" : "1500000",
+      "priceOut" : "2000000",
+      "pricePromotion" : "0",
+      "quantity" : 7,
+      "quantitySaled" : "41",
+      "status" : "1"
+    },
+    "6dd56d48-5248-47df-b20f-9b5bc183bc10" : {
+      "cateID" : "-LkMi3mnmsgpQnfMLEdO",
+      "createAt" : 1563766443032,
+      "dateAdd" : "2019-02-03",
+      "deleteAt" : "",
+      "description" : "Sử dụng chất liệu da bò cao cấp, bề mặt mềm mại, được xử lý cẩn thận càng bóng mịn theo thời gian sử dụng. Sản phẩm được may thủ cộng tỉ mỉ và tinh xảo",
+      "image" : "http://www.dabothuoc.com/wp-content/uploads/2015/08/v05-a.jpg",
+      "name" : "BAO DA ĐỰNG GIẤY ĐĂNG KIỂM XE",
+      "priceIn" : "1200000",
+      "priceOut" : "1800000",
+      "pricePromotion" : "1600000",
+      "quantity" : 3,
+      "quantitySaled" : 6,
+      "status" : "1"
+    },
+    "f441f3f4-cbda-41d0-809f-0a618ed3a52a" : {
+      "cateID" : "-LkMhtZgbRRHnOSXhniP",
+      "createAt" : 1563766551189,
+      "dateAdd" : "2019-02-03",
+      "deleteAt" : "",
+      "description" : "Bao đẹp, bao rẻ",
+      "image" : "https://lydoan-pn.000webhostapp.com/Image/Product/BAO-DA-IPHONE-1.png",
+      "name" : "BAO DA IPHONE",
+      "priceIn" : "260000",
+      "priceOut" : "300000",
+      "pricePromotion" : "0",
+      "quantity" : 6,
+      "quantitySaled" : 1,
+      "status" : "1"
+    }
+  },
+  "users" : {
+    "-Lk7F8BtDGNOmS7Lr8fv" : {
+      "email" : "admin@gmail.com",
+      "password" : "administrator",
+      "role" : ""
+    }
+  }
+}
